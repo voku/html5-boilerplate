@@ -1,5 +1,6 @@
 ### HEAD
 
+* Simplify the Google Analytics snippet using `async` & `defer` ([#1660](https://github.com/h5bp/html5-boilerplate/pull/1660#issuecomment-89285678)).
 * Deprecate protocol-relative URLs
   ([#1694](https://github.com/h5bp/html5-boilerplate/issues/1694)).
 * Update high resolution media query
